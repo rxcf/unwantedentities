@@ -1,5 +1,5 @@
 # unwantedentities
-Small resource to remove any kind of unwanted entities (vehicles, peds & scenarios)
+Small standalone FiveM resource to remove any kind of unwanted entities (peds, vehicles & scenarios)
 
 ```lua
 Config = {}
