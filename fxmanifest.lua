@@ -1,6 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
+author 'RE3RY#6918'
 description 'https://github.com/RE3RY/unwantedentities'
 version '1.0.0'
 
